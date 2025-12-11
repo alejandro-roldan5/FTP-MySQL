@@ -1,5 +1,5 @@
 # FTP-MySQL
-No funciona. Las instancias se crean correctamente, se puede acceder por SSH a ellas con la clave PEM y demás, pero una vez dentro intento revisar si los servicios están corriendo y ni existen.
+No funciona. Las instancias se crean correctamente, se puede acceder por SSH a ellas con la clave PEM y demás, pero una vez dentro intento revisar si los servicios están corriendo y no existen. Te dejo mis archivos de configuración ya que no consigo encontrar el error:
 
 **APARECE ESTO CADA VEZ QUE COMPRUEBO**
  ```python
