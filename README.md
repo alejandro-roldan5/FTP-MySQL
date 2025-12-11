@@ -5,4 +5,4 @@ No funciona. Las instancias se crean correctamente, se puede acceder por SSH a e
     [ec2-user@ip-172-31-81-134 ~]$ systemctl status vsftpd
     Unit vsftpd.service could not be found.
 
-    ```
+ ```
